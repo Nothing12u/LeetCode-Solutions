@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
