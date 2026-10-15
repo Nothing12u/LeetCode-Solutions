@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
