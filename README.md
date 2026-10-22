@@ -68,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
