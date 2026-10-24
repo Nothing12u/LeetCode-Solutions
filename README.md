@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [2409-count-days-spent-together](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Sliding Window
 |  |
 | ------- |
