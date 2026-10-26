@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -113,4 +114,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
