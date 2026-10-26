@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nothing12u/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
